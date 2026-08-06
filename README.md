@@ -2,4 +2,4 @@
 
 Documentation on the Kaggriculture competition in Kaggle
 
-Competition link: [https://www.kaggle.com/competitions/kaggriculture](Kaggriculture)
+Competition link: [Kaggriculture](https://www.kaggle.com/competitions/kaggriculture)
